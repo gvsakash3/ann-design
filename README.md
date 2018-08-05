@@ -26,4 +26,8 @@ Weight values: w = [a b]<sup>T</sup>
 
 * Problem 2: Autoassociative memory models - digit recognition and pattern recovery.
 
-. See the final commits in [Supervised Hebbian Learning](sup_hebb_learn)
+. See the final commits in [Supervised Hebbian learning](sup_hebb_learn)
+
+* Problem 3: Function approxiamtion and time series anlaysis.
+
+. See the final commits in [time series and func. approxiamtion](func_approx)
