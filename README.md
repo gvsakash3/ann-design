@@ -1,4 +1,4 @@
-# ann-design
+# ann-design     { [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/) }
 
 * Problem 1: Multi-neuron and Multi-layer Perceptron Learning Models ([convergence_perceptron.m](convergence_perceptron.m))
 
@@ -33,4 +33,4 @@ Weight values: w = [a b]<sup>T</sup>
 . See the final commits in [time series and func. approxiamtion](func_approx)
 
 
-[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/gvsakash/)
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/gvsakash/)
