@@ -31,3 +31,6 @@ Weight values: w = [a b]<sup>T</sup>
 * Problem 3: Function approxiamtion and time series anlaysis.
 
 . See the final commits in [time series and func. approxiamtion](func_approx)
+
+
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/gvsakash/)
