@@ -1,6 +1,7 @@
-# ann-design     { [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/) }
+# ann-design     [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/) 
 
-* Problem 1: Multi-neuron and Multi-layer Perceptron Learning Models ([convergence_perceptron.m](convergence_perceptron.m))
+
+* Problem 1: Multi-neuron and Multi-layer Perceptron Learning Models ([convergence_perceptron.m](convergence_perceptron.m)) 
 
 . Based on sample problems, developed a code to generate weights and bias for each iteration until convergence is achieved by cycling through the input vectors.
 
@@ -32,5 +33,5 @@ Weight values: w = [a b]<sup>T</sup>
 
 . See the final commits in [time series and func. approxiamtion](func_approx)
 
-
-[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/gvsakash/)
+[![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://github.com/gvsakash/ann-design) 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
