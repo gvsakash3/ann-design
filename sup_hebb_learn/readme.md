@@ -1,1 +1,1 @@
-Brief Description of task 2
+Brief description of task 2
