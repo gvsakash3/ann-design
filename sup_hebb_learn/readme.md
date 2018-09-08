@@ -10,3 +10,12 @@ Brief description of task 2
             
             [net,tr]=train(net,.....)
      It is a network training function that updates weight and bias values according to scaled conjugate gradient method.
+     
+     
+     Also, the training stops for :
+     
+      x     Max. no of epochs (repitions) is reached.
+     
+      x     Max. amount of time has reached.
+     
+      x     Performance is minimized to the goal.
