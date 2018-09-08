@@ -1,8 +1,9 @@
 Brief description of task 2
 
-* Additional Conceptual information(for personal reference only)
+* Additional Conceptual information(for personal reference):-
 
-1. trainscg ------> Scaled conjugate backpropagation
+     Functions used in the final Matlab code ~
+1. `trainscg` ----> [Scaled conjugate gradient backpropagation](https://in.mathworks.com/help/nnet/ref/trainscg.html)
    
      Syntax: 
   
