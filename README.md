@@ -35,3 +35,5 @@ Weight values: w = [a b]<sup>T</sup>
 
 [![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://github.com/gvsakash/ann-design) 
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/) 
+
+Update: Descriptions of problems 2 and 3 to be added very soon. The report will be added as well, allocating under mini-projects repo if feasible or under a new repo..
