@@ -1,5 +1,7 @@
 Brief description of task 2
 
+***
+#### Footnotes: 
 * Additional Conceptual information(for personal reference):-
 
      Functions used in the final Matlab code ~
@@ -15,7 +17,7 @@ Brief description of task 2
      
      Also, the training stops for :
      
-      x     Max. no of epochs (repitions) is reached.
+      x     Max. no of epochs (repetitions) is reached.
      
       x     Max. amount of time has reached.
      
@@ -29,6 +31,14 @@ Brief description of task 2
                perf = crossentropy(net,targets,outputs,perfWeights)
 
                perf = crossentropy(___,Name,Value)
-     'perf' calculates a network performance given targets and outputs, with optional performance weights and other parameters.
+     '**perf**' calculates a network performance given targets and outputs, with optional performance weights and other parameters.
      
      The function returns a result that heavily penalizes outputs that are extremely inaccurate (y near 1-t), with very little penalty for fairly correct classifications (y near t). Minimizing cross-entropy leads to good classifiers.          
+
+
+
+```
+use three back ticks to indent any code in bio ~
+Update this quickly now..
+```
+ 
