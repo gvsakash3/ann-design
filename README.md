@@ -1,4 +1,6 @@
-# ann-design     
+A repo having collection of final codes submitted during summer internship at IIT Hyd.
+___
+## ann-design     
 
 
 * Problem 1: Multi-neuron and Multi-layer Perceptron Learning Models ([convergence_perceptron.m](convergence_perceptron.m)) 
@@ -33,7 +35,11 @@ Weight values: w = [a b]<sup>T</sup>
 
 . See the final commits in [time series and func. approxiamtion](func_approx)
 
-[![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://github.com/gvsakash/ann-design) 
- [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/) 
 
-Update: Descriptions of problems 2 and 3 to be added very soon. The report will be added as well, allocating under mini-projects repo if feasible or under a new repo..
+
+
+___
+
+
+[![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html) 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/)
