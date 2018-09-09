@@ -1,9 +1,10 @@
 A repo having collection of final codes submitted during summer internship at IIT Hyd.
 ___
-## ann-design     
+### ann-design     
 
 
-* Problem 1: Multi-neuron and Multi-layer Perceptron Learning Models ([convergence_perceptron.m](convergence_perceptron.m)) 
+#### Problem 1: Multi-neuron and Multi-layer Perceptron Learning Models 
+  --> [convergence_perceptron.m](convergence_perceptron.m) 
 
 . Based on sample problems, developed a code to generate weights and bias for each iteration until convergence is achieved by cycling through the input vectors.
 
@@ -27,13 +28,13 @@ Weight values: w = [a b]<sup>T</sup>
 
 ![Plot1](result_percep_plot.jpg)
 
-* Problem 2: Autoassociative memory models - digit recognition and pattern recovery.
+#### Problem 2: Autoassociative memory models - digit recognition and pattern recovery.
 
-. See the final commits in [Supervised Hebbian learning](sup_hebb_learn)
+   > See the final commits in [Supervised Hebbian learning](sup_hebb_learn) for further details and code.
 
-* Problem 3: Function approxiamtion and time series anlaysis.
+##### Problem 3: Function approxiamtion and time series anlaysis.
 
-. See the final commits in [time series and func. approxiamtion](func_approx)
+   > See the final commits in [time series and func. approxiamtion](func_approx) for further details and code.
 
 
 
