@@ -31,7 +31,30 @@ ___
 ___    
 #### 2. Autoassociative memory models - digit recognition and pattern recovery.
 
- * 
+ * Developed a code for pattern recognition of digits and extended this to extract from noisy and occluded patterns as well. 
+ ( [mnist_test_code.m](sup_hebb_learn/mnist_test_code.m) )
+ * In an autoassociative memory the desired output vector is equal to the
+input vector (i.e., t<sub>q</sub> = p<sub>q</sub> )
+
+   ![Plot2](sup_hebb_learn/ref_model.jpg)  
+   This model is used to store a set of patterns and then to recall them, even when corrupted patterns are provided as inputs.  
+   
+   ![digit0](https://github.com/gvsakash/ann-design/blob/master/sup_hebb_learn/pattern_digit.jpg)  
+   
+   Sample image scanned above,  will have a prototype pattern : p<sub>1</sub> = [–1 1 1 1 1 –1 1 –1 –1 –1 –1 1 1 –1 1 –1 ... 1] <sup>T</sup>
+   
+   The vector p<sub>1</sub> corresponds to digit 0 (6 x 5 grid scan as illustrated below), p<sub>2</sub> to digit 1, ....
+   
+   Using Hebb rule, weight matrix is calculated. Based on Supervised Learning rule, the code was developed.
+   
+   * The perfomance graph and validation function can be referred further, along with the codes and mnist.mat and other files.
+   
+   ![Plot3](https://github.com/gvsakash/ann-design/blob/master/sup_hebb_learn/performance.png)
+   
+   * The code was extended to extract patterns from noisy and occluded image scans. (illustration below) ![noisy-plot](https://github.com/gvsakash/ann-design/blob/master/sup_hebb_learn/noisyexamples.jpg)     
+                     
+        
+     
 
    > See the final commits in [Supervised Hebbian learning](sup_hebb_learn) for further details and code.
 
