@@ -1,9 +1,9 @@
-### ann-design 
+## ann-design 
 
 A repo having collection of final codes submitted during summer internship at IIT Hyd.
 ___
 
-#### 1. Multi-neuron and Multi-layer Perceptron Learning Models 
+### 1. Multi-neuron and Multi-layer Perceptron Learning Models 
   
 
 * Based on sample problems, developed a code to generate weights and bias for each iteration until convergence is achieved by cycling through the input vectors. ( [convergence_perceptron.m](convergence_perceptron.m) )
@@ -29,7 +29,7 @@ ___
     ![Plot1](result_percep_plot.jpg)
     
 ___    
-#### 2. Autoassociative memory models - digit recognition and pattern recovery.
+### 2. Autoassociative memory models - digit recognition and pattern recovery.
 
  * Developed a code for pattern recognition of digits and extended this to extract from noisy and occluded patterns as well. 
  ( [mnist_test_code.m](sup_hebb_learn/mnist_test_code.m) )
@@ -59,7 +59,7 @@ input vector (i.e., t<sub>q</sub> = p<sub>q</sub> )
    > See the final commits in [Supervised Hebbian learning](sup_hebb_learn) for further details and code.
 
 ____
-##### 3. Function approxiamtion and time series anlaysis.
+### 3. Function approxiamtion and time series anlaysis.
 
    > See the final commits in [time series and func. approxiamtion](func_approx) for further details and code.
 
