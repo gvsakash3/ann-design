@@ -76,6 +76,7 @@ ___
 ##### Footnotes: 
 
 * Primary reference :  [Neural Network Design](http://hagan.okstate.edu/NNDesign.pdf) by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
+* All sample codes and implementations, other models submitted for project are in the [perceptron-codes](https://github.com/gvsakash/perceptron_codes) repo.
 
 [![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html) 
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/)
