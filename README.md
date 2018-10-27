@@ -69,7 +69,8 @@ ____
    ![Plot4](https://github.com/gvsakash/ann-design/blob/master/func_approx/func_approx.jpg)   
    Illustration of the plot results. ^
   * Developed a network model with the LMS algorithm and multi-layers, studying network response for parameter changes. ( [func-approx.m](func_approx/func_approx_trail.m) )
-  ![Plot5](https://github.com/gvsakash/ann-design/blob/master/func_approx/model_illust.jpg)  
+  <img src="func_approx/model_illust.jpg" width="600">
+  
   * Also developed a time series forecasting model in Python by implementation of concepts from Hagan Demuth notes, studying results from various algorithms. ( [time series-ipynb code](func_approx/time-series-practice-model.ipynb) )
   * Studied and designed models based on backpropagation, ADALINE networks. Developed a multi-layer model and used hidden layers as well to study their architecture and performance. ( [percep-hidden-layers code](func_approx/multi_lay_percep_two_hidd_layers.ipynb) )
 
@@ -83,6 +84,8 @@ ___
 
 * Primary reference :  [Neural Network Design](http://hagan.okstate.edu/NNDesign.pdf) by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
 * All sample codes and implementations, other models submitted for project are in the [perceptron-codes](https://github.com/gvsakash/perceptron_codes) repo.
+* A reference illustration of multi-layer perceptron network architecture:
+<img src="func_approx/multilperceptron_refbook.jpg" width="700">
 
 [![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html) 
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/)
