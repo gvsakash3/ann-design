@@ -83,7 +83,7 @@ ___
 ##### Footnotes: 
 
 * Primary reference :  [Neural Network Design](http://hagan.okstate.edu/NNDesign.pdf) by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
-* All sample codes and implementations, other models submitted for project are in the [perceptron-codes](https://github.com/gvsakash/perceptron_codes) repo.
+* All sample codes and implementations, other models submitted for project are in the [perceptroncodes](https://github.com/gvsakash/perceptroncodes) repo.
 * A reference illustration of multi-layer perceptron network architecture:
 <img src="func_approx/multilperceptron_refbook.jpg" width="700">
 
