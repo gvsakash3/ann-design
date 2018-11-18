@@ -67,7 +67,7 @@ input vector (i.e., t<sub>q</sub> = p<sub>q</sub> )
 ____
 ### 3. Function approxiamtion and time series anlaysis.
    ![Plot4](https://github.com/gvsakash/ann-design/blob/master/func_approx/func_approx.jpg)   
-   Illustration of the plot results. ^
+   Sample illustration of a time series plot. ^
   * Developed a network model with the LMS algorithm and multi-layers, studying network response for parameter changes. ( [func-approx.m](func_approx/func_approx_trail.m) )
   <img src="func_approx/model_illust.jpg" width="600">
   
