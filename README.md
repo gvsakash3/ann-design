@@ -1,5 +1,5 @@
 
-### Repository with collection of final codes submitted for my internship at IIT Hyderbad during summer of 2018.
+### ann-design
 
 #### 1. Function approxiamtion and time series anlaysis.
 
