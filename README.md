@@ -1,9 +1,7 @@
-## ann-design 
- Repository with collection of final codes submitted for my internship at IIT Hyderbad during summer of 2018.
 
- Developedself-normalizingnetworks for pattern extraction from occluded, noisy images of aerodynamic component scans.◦Constructed models and instructed sessions on perceptrons, supervised learning & backpropagation for supplement exercises in Neural Networks lectures. 
+### Repository with collection of final codes submitted for my internship at IIT Hyderbad during summer of 2018.
 
-### 1. Function approxiamtion and time series anlaysis.
+#### 1. Function approxiamtion and time series anlaysis.
 
 <img src="https://github.com/gvsakash/ann-design/blob/master/func_approx/func_approx.jpg" width="400"> <img src="func_approx/model_illust.jpg" width="400">  
 * Developed time series forecast model in Python, using ARIMA and LSTM models, studying sales data for furntiture dataset and risk and stock dividends of Apple and NSE India datasets.
@@ -13,10 +11,11 @@
 
 ___
 
-### 2. Autoassociative memory models - digit recognition and pattern recovery.
+#### 2. Autoassociative memory models - digit recognition and pattern recovery.
 
- * Developed a code for pattern recognition of digits and extended this to extract from noisy and occluded patterns as well. 
- ( [mnist_test_code.m](sup_hebb_learn/mnist_test_code.m) )
+* Developed models for pattern recognition of digits and extended this to extract from noisy images.
+* Final model submission uses self-normalizing networks (seLU) for occluded, noisy images of aerodynamic component scans.
+ * **Concept behind the model**: 
  * In an autoassociative memory the desired output vector is equal to the
 input vector (i.e., t<sub>q</sub> = p<sub>q</sub> )
 
@@ -44,10 +43,10 @@ input vector (i.e., t<sub>q</sub> = p<sub>q</sub> )
 
 ____
 
-### 3. Multi-neuron and Multi-layer Perceptron Learning Models 
+#### 3. Multi-neuron and Multi-layer Perceptron Learning Models 
   
-
-* After studying rosenblatt model and previous network models, I designed a code to generate weights and bias for each iteration until convergence is achieved by cycling through the input vectors. ( [convergence_perceptron.m](percep/convergence_perceptron.m) )
+* Constructed models for lecture exercisess on perceptrons, supervised learning & backpropagation in Neural Networks coursework.
+* For instance, the introductory session used perceptron models in Matlab. After studying rosenblatt model and previous network models, I designed a code to generate weights and bias for each iteration until convergence is achieved by cycling through the input vectors. ( [convergence_perceptron.m](percep/convergence_perceptron.m) )
 
 * Method: 
 
@@ -74,10 +73,6 @@ ____
     
 ___    
 
-
-
-
-___
 ##### Footnotes: 
 * Received a returning internship offer for next summer in Data Science position for the team.
 * Primary reference :  Neural Network Design by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
