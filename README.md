@@ -1,16 +1,13 @@
 ## ann-design 
- Repository with collection of final codes submitted for my summer internship at IIT Hyd.
+ Repository with collection of final codes submitted for my internship at IIT Hyderbad during summer of 2018.
 
-
-
-Performed time series analysis for sales data and stocks usingARIMAandLSTMmodels for Apple and NSE India datasets.
-Usedsoftmax, ReLUarchitectures for generative models and testing convergence of the forecasts (BRNN, Adaline-nets). Developedself-normalizingnetworks for pattern extraction from occluded, noisy images of aerodynamic component scans.◦Constructed models and instructed sessions on perceptrons, supervised learning & backpropagation for supplement exercises in Neural Networks lectures. 
+ Developedself-normalizingnetworks for pattern extraction from occluded, noisy images of aerodynamic component scans.◦Constructed models and instructed sessions on perceptrons, supervised learning & backpropagation for supplement exercises in Neural Networks lectures. 
 
 ### 1. Function approxiamtion and time series anlaysis.
 
 <img src="https://github.com/gvsakash/ann-design/blob/master/func_approx/func_approx.jpg" width="400"> <img src="func_approx/model_illust.jpg" width="400">  
 * Developed time series forecast model in Python, using ARIMA and LSTM models, studying sales data for furntiture dataset and risk and stock dividends of Apple and NSE India datasets.
-* Developed a network model with the LMS algorithm and multi-layers, studying network response for parameter changes.
+* Developed a network model with the LMS algorithm and multi-layers, studying network response for parameter changes. Used softmax and ReLU architectures for my final submission. 
 * Performed comparative study of models designed with backpropagation, adaline and multi-layer models, BRNN etc. and tabulated the results.
 > See the final commits in [time series and func. approxiamtion folder](func_approx) for further details and code.
 
