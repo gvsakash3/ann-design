@@ -3,11 +3,11 @@
 
 #### 1. Function approxiamtion and time series anlaysis.
 
-<img src="https://github.com/gvsakashb/ann-design/blob/master/stock-res.png" width="400"> <img src="func_approx/model_illust.jpg" width="400">  
+<img src="func_approx/img/stock-res.png" width="400"> <img src="func_approx/img/model_illust.jpg" width="400">  
 * Developed time series forecast model in Python, using ARIMA and LSTM models, studying sales data for furntiture dataset and risk and stock dividends of Apple and Tata(NSE India) datasets.
 * Developed a network model with the LMS algorithm and multi-layers, studying network response for parameter changes. Used softmax and ReLU architectures for my final submission. 
 * Performed comparative study of models designed with backpropagation, adaline and multi-layer models, BRNN etc. and tabulated the results.
-<img src="https://github.com/gvsakash/ann-design/blob/master/func_approx/func_approx.jpg" width="400">
+<img src="https://github.com/gvsakash/ann-design/blob/master/func_approx/img/func_approx.jpg" width="400">
 > See the final commits in [time series and func. approxiamtion folder](func_approx) for further details and code.
 
 ___
@@ -78,4 +78,4 @@ ___
 * Received a returning internship offer for next summer in Data Science position for the team.
 * Primary reference :  Neural Network Design by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
 * All sample codes and implementations, other models submitted for project are in the [perceptroncodes](https://github.com/gvsakash/perceptroncodes) repo.
-<img src="func_approx/multilperceptron_refbook.jpg" width="700">
+<img src="func_approx/img/multilperceptron_refbook.jpg" width="700">
