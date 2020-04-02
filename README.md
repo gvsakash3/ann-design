@@ -7,7 +7,7 @@
 * Developed time series forecast model in Python, using ARIMA and LSTM models, studying sales data for furntiture dataset and risk and stock dividends of Apple and Tata(NSE India) datasets.
 * Developed a network model with the LMS algorithm and multi-layers, studying network response for parameter changes. Used softmax and ReLU architectures for my final submission. 
 * Performed comparative study of models designed with backpropagation, adaline and multi-layer models, BRNN etc. and tabulated the results.
-<img src="https://github.com/gvsakash/ann-design/blob/master/func_approx/img/func_approx.jpg" width="400">
+<img src="func_approx/img/func_approx.jpg" width="400">
 > See the final commits in [time series and func. approxiamtion folder](func_approx) for further details and code.
 
 ___
@@ -23,7 +23,7 @@ input vector (i.e., t<sub>q</sub> = p<sub>q</sub> )
    ![Plot2](sup_hebb_learn/ref_model.jpg)  
    This model is used to store a set of patterns and then to recall them, even when corrupted patterns are provided as inputs.  
    
-   ![digit0](https://github.com/gvsakash/ann-design/blob/master/sup_hebb_learn/pattern_digit.jpg)  
+   ![digit0](sup_hebb_learn/pattern_digit.jpg)  
    
    Sample image scanned above,  will have a prototype pattern : p<sub>1</sub> = [–1 1 1 1 1 –1 1 –1 –1 –1 –1 1 1 –1 1 –1 ... 1] <sup>T</sup>
    
@@ -33,9 +33,9 @@ input vector (i.e., t<sub>q</sub> = p<sub>q</sub> )
    
    * The perfomance graph and validation function can be referred further, along with the codes and mnist.mat and other files.
    
-   ![Plot3](https://github.com/gvsakash/ann-design/blob/master/sup_hebb_learn/performance.png)
+   ![Plot3](sup_hebb_learn/performance.png)
    
-   * The code was extended to extract patterns from noisy and occluded image scans. (illustration below) ![noisy-plot](https://github.com/gvsakash/ann-design/blob/master/sup_hebb_learn/noisyexamples.jpg)     
+   * The code was extended to extract patterns from noisy and occluded image scans. (illustration below) ![noisy-plot](sup_hebb_learn/noisyexamples.jpg)     
                      
         
      
@@ -77,5 +77,5 @@ ___
 ##### Footnotes: 
 * Received a returning internship offer for next summer in Data Science position for the team.
 * Primary reference :  Neural Network Design by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
-* All sample codes and implementations, other models submitted for project are in the [perceptroncodes](https://github.com/gvsakash/perceptroncodes) repo.
+* All sample codes and implementations, other models submitted for project are in the [perceptroncodes](https://github.com/govindarajula/perceptroncodes) repo.
 <img src="func_approx/img/multilperceptron_refbook.jpg" width="700">
