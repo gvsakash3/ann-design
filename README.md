@@ -1,7 +1,9 @@
 
 ### ann-design
 
-#### 1. Function approxiamtion and time series anlaysis.
+Advisor: Prof. C Prakash Vyasarayani.
+
+#### 1. Function approxiamtion and time series analysis.
 
 <img src="func_approx/img/stock-res.png" width="400"> <img src="func_approx/img/model_illust.jpg" width="400">  
 * Developed time series forecast model in Python, using ARIMA and LSTM models, studying sales data for furntiture dataset and risk and stock dividends of Apple and Tata(NSE India) datasets.
@@ -75,7 +77,7 @@ ____
 ___    
 
 ##### Footnotes: 
-* Received a returning internship offer for next summer in Data Science position for the team.
+* Received a returning internship offer as Data Science Intern for the next summer with the team.
 * Primary reference :  Neural Network Design by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
 * All sample codes and implementations, other models submitted for project are in the [perceptroncodes](https://github.com/govindarajula/perceptroncodes) repo.
 * Refer this [post](https://www.kdnuggets.com/2019/05/understanding-backpropagation-applied-lstm.html) to understand backpropagation applied across the LSTM and then the BRNN apporach.
