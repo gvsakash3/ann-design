@@ -82,5 +82,5 @@ ___
 * Primary reference :  Neural Network Design by Demuth, H.B., Beale, M.H., De Jess, O. and Hagan, M.T., 2014.
 * All sample codes and implementations, other models submitted for project are in the [perceptroncodes](https://github.com/govindarajula/perceptroncodes) repo.
 * Refer this [post](https://www.kdnuggets.com/2019/05/understanding-backpropagation-applied-lstm.html) to understand backpropagation applied across the LSTM and then the BRNN apporach.
-* Blog to refer for Stocks & Time Series: [here](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
+* Blog to refer for Stocks & Time Series: [link 1](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/), [link 2](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
 <img src="func_approx/img/multilperceptron_refbook.jpg" width="700">
